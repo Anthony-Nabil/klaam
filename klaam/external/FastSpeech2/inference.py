@@ -1,4 +1,4 @@
-import mishkal.tashkeel
+#import mishkal.tashkeel
 import numpy as np
 import torch
 
